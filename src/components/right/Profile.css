@@ -1,0 +1,35 @@
+.switch-container{
+    position: relative;
+    display: flex;
+}
+
+.show-acc{
+    display: flex;
+}
+
+.name{
+    font-style: normal;
+    font-weight: 100;
+    color: lightgrey;
+    margin-left: 10px;
+}
+
+.user-name{
+    font-weight: 600;
+    font-style: normal;
+    margin-left: 10px;
+}
+
+.button-switch{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    color: rgb(88, 88, 255);
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.button-switch:hover {
+    color: rgb(223, 223, 223)  
+}     
+

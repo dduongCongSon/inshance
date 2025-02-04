@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "userName": "user_20",
+        "relationship": "Suggested for you",
+        "avatar": "https://randomuser.me/api/portraits/lego/1.jpg"
+    },
+    {
+        "id": 2,
+        "userName": "user_10",
+        "relationship": "Suggested for you",
+        "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+    },
+    {
+        "id": 3,
+        "userName": "user_21",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/5.jpg"
+    },
+    {
+        "id": 4,
+        "userName": "user_9",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+    },
+    {
+        "id": 5,
+        "userName": "thanhlokk",
+        "relationship": "Suggested for you",
+        "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+    },
+    {
+        "id": 6,
+        "userName": "user_8",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/3.jpg"
+    },
+    {
+        "id": 7,
+        "userName": "user_12",
+        "relationship": "Suggested for you",
+        "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
+    },
+    {
+        "id": 8,
+        "userName": "user_16",
+        "relationship": "Suggested for you",
+        "avatar": "https://randomuser.me/api/portraits/lego/8.jpg"
+    },
+    {
+        "id": 9,
+        "userName": "user_7",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+    },
+    {
+        "id": 10,
+        "userName": "user_16",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
+    },
+    {
+        "id": 11,
+        "userName": "user_17",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+    },
+    {
+        "id": 12,
+        "userName": "user_19",
+        "relationship": "Suggested for you",
+        "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+    },
+    {
+        "id": 13,
+        "userName": "user_14",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/.jpg"
+    },
+    {
+        "id": 14,
+        "userName": "user_23",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
+    },
+    {
+        "id": 15,
+        "userName": "user_17",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/4.jpg"
+    },
+    {
+        "id": 16,
+        "userName": "user_8",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
+    },
+    {
+        "id": 17,
+        "userName": "user_8",
+        "relationship": "Suggested for you",
+        "avatar": "https://randomuser.me/api/portraits/lego/6.jpg"
+    },
+    {
+        "id": 18,
+        "userName": "user_25",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/9.jpg"
+    },
+    {
+        "id": 19,
+        "userName": "user_22",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/2.jpg"
+    },
+    {
+        "id": 20,
+        "userName": "user_13",
+        "relationship": "Follows you",
+        "avatar": "https://randomuser.me/api/portraits/lego/7.jpg"
+    }
+]

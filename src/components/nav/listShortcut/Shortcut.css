@@ -1,0 +1,11 @@
+.threads, .showMore{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.icon{
+    margin-right: 10px;
+}
+

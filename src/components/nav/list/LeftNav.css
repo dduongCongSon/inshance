@@ -1,0 +1,40 @@
+
+
+  /* leftnavigation */
+  .leftnavigations{
+    width: 100%;
+
+    /* flex: 4; */
+  }
+
+  .navList{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    color: white;
+    cursor: pointer;
+    font-family: "Ubuntu", sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  .icon_navList{
+    margin-right: 10px;
+  }
+
+  .nav-Avt{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    color: white;
+    font-size: 14px;
+  }
+
+  .avt_navList {
+    margin-right: 10px;
+  }
+
+  a {
+    text-decoration: none;
+  }

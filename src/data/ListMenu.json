@@ -1,0 +1,54 @@
+
+
+[
+    {
+      "id": 1,
+      "item": "HomeOutlinedIcon",
+      "content": "Home",
+      "class": "homeicon",
+      "link": "/"
+    },
+    {
+      "id": 2,
+      "item": "SearchOutlinedIcon",
+      "content": "Search",
+      "class": "searchicon",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "item": "ExploreOutlinedIcon",
+      "content": "Explore",
+      "class": "exploreicon",
+      "link": "/explore"
+    },
+    {
+      "id": 4,
+      "item": "MovieFilterOutlinedIcon",
+      "content": "Reels",
+      "class": "reelsicon",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "item": "ChatOutlinedIcon",
+      "content": "Messages",
+      "class": "messagesicon",
+      "link": "/inbox"
+    },
+    {
+      "id": 6,
+      "item": "FavoriteBorderOutlinedIcon",
+      "content": "Notifications",
+      "class": "notificationsicon",
+      "link": "#"
+    },
+    {
+      "id": 7,
+      "item": "AddToPhotosOutlinedIcon",
+      "content": "Create",
+      "class": "createicon",
+      "link": "#"
+    }
+  ]
+  

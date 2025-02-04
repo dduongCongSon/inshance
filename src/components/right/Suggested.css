@@ -1,0 +1,62 @@
+.suggested-container {
+  max-height: 150px; /* Initial height to show limited suggestions */
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.suggested-container.show-all {
+  max-height: none; /* Allow full height when showing all suggestions */
+}
+
+.listAcc-container {
+  position: relative;
+  display: flex;
+  padding: 15px 0;
+}
+
+.listAcc {
+  display: flex;
+}
+
+.userName {
+  font-weight: 600;
+  font-style: normal;
+  margin-left: 10px;
+}
+
+.rela {
+  font-style: normal;
+  font-weight: 100;
+  color: lightgrey;
+  margin-left: 10px;
+}
+
+.title-suggested {
+  font-size: 13px;
+  margin-top: 20px;
+  color: gray;
+  position: relative;
+}
+
+span {
+  position: absolute;
+  left: 50%;
+  cursor: pointer;
+}
+
+span:hover {
+  color: rgb(187, 201, 213);
+}
+
+.button-follow {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  color: rgb(0, 120, 198);
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.button-follow:hover {
+  color: rgb(137, 147, 156);
+}

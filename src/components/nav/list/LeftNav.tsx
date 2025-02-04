@@ -38,10 +38,10 @@ const LeftNav = () => {
             </Link>
           );
         })}
-        <div className="nav-Avt">
+        <Link to={"/profile"} className="nav-Avt">
           <Avatar alt="Cindy Baker" src={AvtProfile} className="avt_navList" />
           <div>Profile</div>
-        </div>
+        </Link>
       </div>
     </div>
   );

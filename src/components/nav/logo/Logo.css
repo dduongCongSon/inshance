@@ -1,5 +1,15 @@
-.logo-Nav{
-    font-size: 60px;
-    margin: 20px;
-    color: white;
+.logo-Nav {
+  font-size: 60px;
+  margin: 20px;
+  color: white;
+}
+
+.logo-cont {
+  display: flex;
+  cursor: pointer;
+}
+
+.text-Nav{
+    font-size: x-large;
+    margin-top: 16px;
 }

@@ -21,8 +21,9 @@ const Post = () => {
   }, []);
 
   const handleImageClick = (post: PostType) => {
-    navigate(`/profile/post/${post.id}`); // Navigate to the new page with post ID
+    navigate(`/post/${post.id}`);
   };
+
 
   return (
       <div className="post-container">

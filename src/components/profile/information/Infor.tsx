@@ -12,7 +12,7 @@ const Infor = () => {
   const [profile, setProfile] = useState<UserProfile | null>(null);
 
   useEffect(() => {
-    fetch('https://67a02fce24322f8329c57050.mockapi.io/users')
+    fetch('https://67a32451409de5ed52578cc6.mockapi.io/users')
       .then(res => res.json())
       .then(data => {
         // API trả về một mảng, nên ta lấy phần tử đầu tiên

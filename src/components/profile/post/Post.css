@@ -88,7 +88,7 @@
   
   .close-button {
     background: none; /* Không có nền */
-    color: #333; /* Màu chữ */
+    color: #fff; /* Màu chữ */
     border: none; /* Không có viền */
     font-size: 1.5rem; /* Kích thước chữ */
     cursor: pointer; /* Thay đổi con trỏ khi hover */
@@ -107,6 +107,28 @@
   .heart-icon.liked {
     color: red; /* Màu khi đã thích */
   }
+
+.create-button-container {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.create-button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.create-button:hover {
+  background-color: #45a049;
+}
   
   
   
